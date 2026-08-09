@@ -1,6 +1,9 @@
 # ULTRON AI Desktop Assistant
 
 > **ULTRON** is a next-generation AI Desktop Assistant powered by Google Gemini. It features hands-free voice recognition, real-time voice synthesis, automated desktop control, browser automation, system monitoring, and a remote web dashboard.
+> <div align="center">
+<img width="1363" height="702" alt="image" src="https://github.com/user-attachments/assets/34317770-c4a0-4906-92d0-dec4f49567af" />
+</div>
 ---
 #Command Prompt
 <div align="center">
